@@ -1,6 +1,6 @@
 {
 	"name": "is-inside-container",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Check if the process is running inside a container (Docker/Podman)",
 	"license": "MIT",
 	"repository": "sindresorhus/is-inside-container",
