@@ -34,3 +34,4 @@ Exits with code 0 if inside a container and 2 if not.
 ## Related
 
 - [is-docker](https://github.com/sindresorhus/is-docker) - Check if the process is running inside a Docker container
+- [is-in-ci](https://github.com/sindresorhus/is-in-ci) - Check if the process is running in a Continuous Integration (CI) environment
